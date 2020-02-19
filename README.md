@@ -12,6 +12,8 @@ on7xelte - G610F - G610FDXU1CRL2
 on7xreflte - SM-G611MT - G611MTVJS2BRL2
 ```
 I got them by using simple but powerful tool ```extract-ikconfig```
+I created common config with c# ```.Intersect```. Seperate configs with ```file.except(common_path)```. (Also c#)
+
 
 TODO:
 
